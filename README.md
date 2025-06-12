@@ -36,6 +36,10 @@ Below are the technologies used, grouped by category:
 ```markdown
 **Frontend:** React, HTML5, CSS3, SASS, Tailwind CSS  
 **Backend:** Node.js, Express  
-**Tools:** GitHub Actions, Webpack, Babel  
+**Tools:** GitHub Actions, Webpack, Babel
+
+
+OUTPUT:
+  ![Image](https://github.com/user-attachments/assets/b0f73ed6-3a42-4050-b466-17b811f0f735)
 
 
