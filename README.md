@@ -41,6 +41,4 @@ Below are the technologies used, grouped by category:
 
 OUTPUT:
   
-![Image](https://github.com/user-attachments/assets/c0f0c770-79a1-471e-acb3-9b550340f2ce)
-
 
