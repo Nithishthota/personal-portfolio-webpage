@@ -11,7 +11,7 @@ DESCRIPTION:
 
  # 🚀 THOTA NITHISH– Personal Portfolio
 
-### 👋 Hello, I'm [Your Name]!
+### 👋 Hello, I'm THOTA NITHISH!
 A brief one-liner about who you are (e.g., “Full‑stack web developer passionate about creating interactive experiences and web apps.”)
 
 ---
